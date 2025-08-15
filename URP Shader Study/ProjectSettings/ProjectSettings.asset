@@ -918,13 +918,13 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 1
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
   cloudProjectId: 738d0d30-df5a-4506-8d90-fa69726e8809
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: URP Shader Study 2025-08-14_12-24-05
-  organizationId: 
+  organizationId: ddtygs
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
